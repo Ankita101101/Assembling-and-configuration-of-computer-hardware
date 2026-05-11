@@ -7,8 +7,8 @@ import {
   FileText
 } from "lucide-react";
 
-import unit1 from "../data/unit1";
-import unit2 from "../data/unit2";
+import unit1 from "../data/Unit1";
+import unit2 from "../data/Unit2";
 
 import PdfSection from "../components/PdfSection";
 
